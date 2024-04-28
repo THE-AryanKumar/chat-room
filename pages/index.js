@@ -261,7 +261,7 @@ export default function Chat() {
       socket.on('login', (data) => {
         connected = true;
         // Display the welcome message
-        const message = 'Welcome to PranjalSwami croudfund - ';
+        const message = 'Welcome to Athlete-Backer CrowdFund - ';
         log(message, {
           prepend: true
         });
