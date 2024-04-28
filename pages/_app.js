@@ -1,7 +1,5 @@
 import '../styles/globals.css'
-import Navbar from '../components/Navbar'
 import Head from 'next/head'
-import NextNProgress from 'nextjs-progressbar'
 
 import '../styles/chat.css'
 import '../styles/landingPage.css'
