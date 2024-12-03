@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <div>
       <Head>
-        <title>FrostBite: College Website</title>
+        <title>SharePoint: Live Chat</title>
         <link rel="icon" type="image/x-icon" href="/favicon.ico"></link>
       </Head>
       <Component {...pageProps} />

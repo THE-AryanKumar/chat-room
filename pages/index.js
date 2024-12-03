@@ -261,7 +261,7 @@ export default function Chat() {
       socket.on('login', (data) => {
         connected = true;
         // Display the welcome message
-        const message = 'Welcome to Athlete-Backer CrowdFund - ';
+        const message = 'Welcome to SharePoint Live Chat - ';
         log(message, {
           prepend: true
         });
